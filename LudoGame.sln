@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{1A7FFEF9-D787-FC7D-1941-D7DC7A77B688}") = "LudoGame", "Assembly-CSharp.csproj", "{12D96CC1-D5B6-634B-4266-EAF0B7138376}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ludogame.CSharp", "ludogame.CSharp.csproj", "{DEF40899-B9E0-5EC5-019A-2DBA24742B12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{12D96CC1-D5B6-634B-4266-EAF0B7138376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12D96CC1-D5B6-634B-4266-EAF0B7138376}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12D96CC1-D5B6-634B-4266-EAF0B7138376}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12D96CC1-D5B6-634B-4266-EAF0B7138376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF40899-B9E0-5EC5-019A-2DBA24742B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF40899-B9E0-5EC5-019A-2DBA24742B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF40899-B9E0-5EC5-019A-2DBA24742B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF40899-B9E0-5EC5-019A-2DBA24742B12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
